@@ -10,7 +10,7 @@
 #define Header_h
 
 #import <QMUIKit/QMUIKit.h>
-#import "SHKPerson.h"
+//#import "SHKPerson.h"
 #import <Masonry/Masonry.h>
 #import <ReactiveObjC/ReactiveObjC.h>
 
